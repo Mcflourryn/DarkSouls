@@ -73,7 +73,7 @@ nav{
 	text-align:center;
 	line-height:48px;
 	color:white;
-	background:#F2B416;
+	background:#3B77B3;
 	
 }
 
@@ -142,7 +142,7 @@ aside#der h1{
 	height:50px;
 	line-height:50px;
 	text-align:center;
-	background:#F2B416;
+	background:#3B77B3;
 	color:white;
 	margin-bottom:5px;
 }	
@@ -170,7 +170,7 @@ aside#der input[type="password"]{
 	
 aside#der input[type="submit"]{
 	width:200px;
-	background:#F2B416;
+	background:#3B77B3;
 	border:0;
 }
 
@@ -201,7 +201,7 @@ aside#der a .redes:hover{
 	margin:0 4px;
 	width:56px;
 	height:50px;
-	background:#F2B416;
+	background:#3B77B3;
 	font-family: 'Balsamiq Sans', cursive;
 	font-size:20px;
 	color:white;
@@ -257,6 +257,6 @@ footer{
 	text-align:center;
 	line-height:60px;
 	color:white;
-	background:#F2B416;
+	background:#3B77B3;
 	
 	}
